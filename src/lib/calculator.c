@@ -1,7 +1,4 @@
 #include "./../../include/calculator.h"
-#include "./../../include/calculator.h"
-
-
 
 double _add(double a, double b) {
 	return a+b;
@@ -19,7 +16,8 @@ double _div(double a, double b) {
 	return a/b;
 }
 
-double _car(double a) {          
+double _carre(double a,double b) {
     return a * a;
 }
+
 	
